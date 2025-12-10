@@ -34,9 +34,7 @@ This Code of Conduct applies within all project spaces, and also applies when an
 
 ### 5. Reporting and Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team responsible for enforcement at **[conduct+github-standards-and-research
-@bitstreamlabs.ai](mailto:conduct+github-standards-and-research
-@bitstreamlabs.ai)**.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team responsible for enforcement at **[conduct+github-standards-and-research@bitstreamlabs.ai](mailto:conduct+github-standards-and-research@bitstreamlabs.ai)**.
 
 All complaints will be reviewed and investigated promptly and fairly. The Project Maintainers are obligated to respect the privacy and security of the reporter of any incident.
 
