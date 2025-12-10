@@ -36,7 +36,7 @@ When submitting new files or resources, please place them in the most appropriat
 
 ### 📝 How to Contribute
 
-Contributions can be made in several ways. Please adhere to the **Code of Conduct** (if you plan to add one) and follow the guidelines below:
+Contributions can be made in several ways. Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) and follow the guidelines below:
 
 #### 1. Suggest a New Resource or Standard
 
